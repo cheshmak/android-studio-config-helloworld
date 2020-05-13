@@ -1,3 +1,8 @@
-# android-studio-config-helloworld
+# Android Studio Remote Config Sample
+# مثال استفاده از ریموت کانفیگ چشمک در اندروید استودیو
+<div dir="rtl">
+در این مثال از ریموت کانفیگ چشمک به منظور دریافت تعدادی پارامتر از سرور استفاده شده است. شما می توانید با مطالعه این سورس کد از نحوه پیاده سازی آن مطلع شوید.
 
-sample code for start using Cheshmak remote config
+برای اطلاعات بیشتر به مستندات چشمک مراجعه کنید.
+</div>
+
